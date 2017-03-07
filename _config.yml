@@ -1,46 +1,36 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://jagacademy.github.io
+baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: jag academy
+email: agarciafdz@gmail.comk
+description: "Centro de Entrenamiento basado en métodos ágiles Kanban, Scrum"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Pepe Hernández R.
   pic: 1
-  position: Lead Designer
+  position: Consultor Líder
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/pphdez76
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/pphdez76
+    - title: blogger
+      url: http://novador.blogspot.mx/
 
-- name: Larry Parker
+- name: Alejandro García Fernández
   pic: 2
-  position: Lead Marketer
+  position: Consultor líder
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/agarciafdz
     - title: facebook
-      url: #
+      url: https://www.facebook.com/elviejo79
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/elviejo79/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,15 +40,15 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Gavilanes 153, Los Gavilanes
+  - line: Guadalupe, Zacatecas, CP 98619
 
 # Build settings
 markdown: kramdown
